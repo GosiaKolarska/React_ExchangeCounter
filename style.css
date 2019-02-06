@@ -1,0 +1,5 @@
+.app > * {
+  margin: .5em 0;
+}
+label {display: block;}
+label select {margin-left: .5em;}
